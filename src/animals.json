@@ -1,0 +1,62 @@
+[{
+  "id": 1,
+  "name": "Zebra",
+  "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Common_zebra_1.jpg/800px-Common_zebra_1.jpg"
+},
+{
+  "id": 2,
+  "name": "Hippo",
+  "path": "https://media.mnn.com/assets/images/2015/02/Hippo.jpg"
+},
+{
+  "id": 3,
+  "name": "Rabbit",
+  "path": "http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/2018/02/hare-cropped.jpg?itok=LCcJRU0v"
+},
+{
+  "id": 4,
+  "name": "Wolf",
+  "path": "http://animals.sandiegozoo.org/sites/default/files/2016-12/Wolf_ZN.jpg"
+},
+{
+  "id": 5,
+  "name": "Walrus",
+  "path": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pacific_walrus_bull_odobenus_rosmarus.jpg"
+},
+{
+  "id": 6,
+  "name": "Camel",
+  "path": "https://cdn.britannica.com/94/152294-131-DC3E25DB.jpg"
+},
+{
+  "id": 7,
+  "name": "Panda",
+  "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1200px-Grosser_Panda.JPG"
+},
+{
+  "id": 8,
+  "name": "Red Hawk",
+  "path": "http://redhawkcoppell.com/wp-content/uploads/2012/02/RedHawk_Brochure_Hawk.jpg"
+},
+{
+  "id": 9,
+  "name": "Python",
+  "path": "https://uk.dice.com/technews/wp-content/uploads/2018/01/shutterstock_368881394.jpg"
+},
+{
+  "id": 10,
+  "name": "Blue Whale",
+  "path": "http://d2ouvy59p0dg6k.cloudfront.net/img/64_hi_257749_sm_491458.jpg"
+},
+{
+  "id": 11,
+  "name": "Butterfly",
+  "path": "http://www.webexhibits.org/causesofcolor/images/content/blueMorphoZ.jpg"
+},
+{
+  "id": 12,
+  "name": "Goat",
+  "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/1200px-Hausziege_04.jpg"
+}
+
+]
